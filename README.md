@@ -34,15 +34,15 @@ This project was created in Coders Week Headless Challenge, with the following t
 - [ReactJs](https://reactjs.org/)
 - [NextJS](https://nextjs.org)
 - [Contentful](https://contentful.com)
-- [Versel](https://vercel.com)
+- [Vercel](https://vercel.com)
 - [AWS](https://aws.amazon.com)
-- [Typescript](https://www.typescript.org/)
-- [Tailwind](https:/tailwindcss.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 
 ##  :memo: License
 
 This project is licensed under the MIT License. See the [LICENSE]() for more information.
 
 ___
-[Get in touch](https://www.linkedin.com/feed/)
+[Get in touch | Entre em contato](https://www.linkedin.com/feed/)
 
