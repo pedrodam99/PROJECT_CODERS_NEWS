@@ -37,7 +37,7 @@ This project was created in Coders Week Headless Challenge, with the following t
 - [Versel](https://vercel.com)
 - [AWS](https://aws.amazon.com)
 - [Typescript](https://www.typescript.org/)
-- [Tailwind](htttps:/tailwindcss.com/)
+- [Tailwind](https:/tailwindcss.com/)
 
 ##  :memo: License
 
