@@ -44,5 +44,5 @@ This project was created in Coders Week Headless Challenge, with the following t
 This project is licensed under the MIT License. See the [LICENSE]() for more information.
 
 ___
-[Get in touch | Entre em contato](https://www.linkedin.com/feed/)
+[Get in touch | Entre em contato](https://www.linkedin.com/in/pedrodambrosio/)
 
